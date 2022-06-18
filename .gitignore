@@ -94,3 +94,6 @@ venv.bak/
 
 # excel file
 data/input.xlsx
+
+# notebook
+src/notebooks/financial_overview.ipynb
